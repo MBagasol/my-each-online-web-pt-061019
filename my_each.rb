@@ -4,5 +4,6 @@ def my_each(num) # put argument(s) here
   while i < num.length 
   yield(collection[i])
   i += 1 
-  
+end
+collection
 end
