@@ -5,5 +5,5 @@ def my_each(num) # put argument(s) here
   yield(num[i])
   i += 1 
 end
-collection
+num
 end
